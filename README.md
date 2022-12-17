@@ -47,5 +47,5 @@ Se reconstruye y reinterpreta el mundo de Wonderland con otra visión, imbuyendo
 03. Manovich, Lev (2013). *El software toma el mando.* https://materials.campus.uoc.edu. Recuperado 10 de diciembre de 2022, de https://campus.uoc.edu/
 04. Muñoz, Juan (2014, 10 septiembre). *Conocimiento Abierto y Tecnología.* El sitio de Juan. Recuperado 10 de diciembre de 2022, de http://juan.psicologiasocial.eu/conocimiento-y-tecnologia.
 05. WiredEnterprise. (2012, 11 julio). *GitHub - WiredEnterprise/Lord-of-the-Files: A repository for the article Lord of the Files: How GitHub Tamed Free Software (And More), published on Wired.com.* GitHub. Recuperado 10 de diciembre de 2022 de https://github.com/WiredEnterprise/Lord-of-the-Files
-06. Victoria and Albert Museum. (2021, 18 mayo). *Curious Alice: the VR experience | Behind the scenes | V&A.* YouTube. Recuperado 10 de diciembre de 2022 de https://www.youtube.com/watch?v=j1maAW2F2Ug
+06. Victoria and Albert Museum. (2021, 18 mayo). *Curious Alice: the VR experience - Behind the scenes - V&A.* YouTube. Recuperado 10 de diciembre de 2022 de https://www.youtube.com/watch?v=j1maAW2F2Ug
 07. *Curious Alice on Steam.* Recuperado 10 de diciembre de 2022 de https://store.steampowered.com/app/1424190/Curious_Alice/
