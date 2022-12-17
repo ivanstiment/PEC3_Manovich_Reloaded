@@ -38,7 +38,7 @@ Se reconstruye y reinterpreta el mundo de Wonderland con otra visión, imbuyendo
 
 > “*La hibridación de los medios es un proceso que »amenaza» la constitución de cada uno de los elementos por separado, el texto no se entiende igual desde que lo podemos manipular digitalmente más allá de la tipografía, lo mismo ocurre con las imágenes y el vídeo, la convivencia entre el vídeo (editado), las imágenes (modificadas) y el texto superpuesto, genera un entorno experiencial totalmente diferente y construido sobre unas técnicas de software que permiten una actuación global sobre diferentes tipos de datos*”. (1)
 
-[![Curious Alice: the VR experience | Behind the scenes | V&A](http://img.youtube.com/vi/j1maAW2F2Ug/0.jpg)](http://www.youtube.com/watch?v=j1maAW2F2Ug "Curious Alice: the VR experience | Behind the scenes | V&A")
+[![Curious Alice: the VR experience - Behind the scenes - V&A](http://img.youtube.com/vi/j1maAW2F2Ug/0.jpg)](http://www.youtube.com/watch?v=j1maAW2F2Ug "Curious Alice: the VR experience - Behind the scenes - V&A")
 > ***Curious Alice: the VR experience* | Behind the scenes | V&A** "Ver entre bastidores como se creó *Curious Alice*" via Youtube
 
 ## Referencias y Bibliografía
