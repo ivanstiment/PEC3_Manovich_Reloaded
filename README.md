@@ -48,6 +48,7 @@ Se reconstruye y reinterpreta el mundo de Wonderland con otra visión, imbuyendo
 ### Caso 2 - Catálogo de productos en Realidad Aumentada 3dProMax
 
 <img src="https://images.prismic.io/invelon-website/f99d7574-aacb-4e11-9c20-61594d0bee18_catalogo-de-productos-realidad-aumentada-invelon-blog.jpg?auto=format%2Ccompress&fit=max&q=50" alt="Catálogo de productos con Realidad Aumentada" max-width="960">
+> Catálogo de productos con Realidad Aumentada.
 
 [Servicios de realidad aumentada](https://3dpromax.com/servicios/realidad-aumentada/)
 
@@ -73,7 +74,11 @@ Se modifica la interacción y la manipulación de formatos de medios que ya exis
 
 Se utilizan interfaces para su visualización en 3d, modificando su dimensión original principalmente fija.
 
-<iframe width="960" height="540" src="https://www.youtube.com/watch?v=6dhr8Nh1bfo" title="Catálogo de Productos en Realidad Aumentada 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1903" height="772" src="https://www.youtube.com/embed/6dhr8Nh1bfo" title="Catalogo de Productos en Realidad Aumentada 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Catálogo de productos con Realidad Aumentada 2020 via Youtube
+
+[![Catálogo de productos con Realidad Aumentada 2020](http://img.youtube.com/vi/6dhr8Nh1bfo/0.jpg)](https://www.youtube.com/embed/6dhr8Nh1bfo "Curious Alice: the VR experience - Behind the scenes - V&A")
+> Catálogo de productos con Realidad Aumentada 2020 via Youtube
 
 ## Conclusión
 Para realizar este ensayo, nos colocamos “las gafas de Manovich” para analizar cada uno de los ejemplos como un resultado de la hibridación. De cómo se crean nuevas especies de un nuevo tipo de estética visual que no existía previamente. No representan solo la suma de partes ya existentes con anterioridad.
