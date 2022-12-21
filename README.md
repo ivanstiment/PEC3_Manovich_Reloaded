@@ -81,15 +81,14 @@ Se utilizan interfaces para su visualización en 3d, modificando su dimensión o
 Para realizar este ensayo, nos colocamos “las gafas de Manovich” para analizar cada uno de los ejemplos como un resultado de la hibridación. De cómo se crean nuevas especies de un nuevo tipo de estética visual que no existía previamente. No representan solo la suma de partes ya existentes con anterioridad. Se fusionan los elementos compartiendo técnicas de software e interfaces generando una nueva experiencia satisfactoria.
 
 ## Referencias y Bibliografía
-01. Adell, F. *Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios.* Recuperado 10 de diciembre de 2022, de http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-02. Cristóbal, J. (2022, 14 febrero). *Markdown - La guía definitiva en español. Markdown.* Recuperado 10 de diciembre de 2022, de https://markdown.es/
-03. Manovich, Lev (2013). *El software toma el mando.* https://materials.campus.uoc.edu. Recuperado 10 de diciembre de 2022, de https://campus.uoc.edu/
-04. Muñoz, Juan (2014, 10 septiembre). *Conocimiento Abierto y Tecnología.* El sitio de Juan. Recuperado 10 de diciembre de 2022, de http://juan.psicologiasocial.eu/conocimiento-y-tecnologia.
-05. WiredEnterprise. (2012, 11 julio). *GitHub - WiredEnterprise/Lord-of-the-Files: A repository for the article Lord of the Files: How GitHub Tamed Free Software (And More), published on Wired.com.* GitHub. Recuperado 10 de diciembre de 2022 de https://github.com/WiredEnterprise/Lord-of-the-Files
-06. Victoria and Albert Museum. (2021, 18 mayo). *Curious Alice: the VR experience - Behind the scenes - V&A.* YouTube. Recuperado 10 de diciembre de 2022 de https://www.youtube.com/watch?v=j1maAW2F2Ug
-07. *Curious Alice on Steam.* Recuperado 10 de diciembre de 2022 de https://store.steampowered.com/app/1424190/Curious_Alice/
+01. Adell, F. *Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios.* Recuperado 10 de diciembre de 2022, de [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+02. Cristóbal, J. (2022, 14 febrero). *Markdown - La guía definitiva en español. Markdown.* Recuperado 10 de diciembre de 2022, de [https://markdown.es/](https://markdown.es/)
+03. Manovich, Lev (2013). *El software toma el mando.* https://materials.campus.uoc.edu. Recuperado 10 de diciembre de 2022, de [https://campus.uoc.edu/](https://campus.uoc.edu/)
+04. Muñoz, Juan (2014, 10 septiembre). *Conocimiento Abierto y Tecnología.* El sitio de Juan. Recuperado 10 de diciembre de 2022, de [http://juan.psicologiasocial.eu/conocimiento-y-tecnologia](http://juan.psicologiasocial.eu/conocimiento-y-tecnologia)
+05. WiredEnterprise. (2012, 11 julio). *GitHub - WiredEnterprise/Lord-of-the-Files: A repository for the article Lord of the Files: How GitHub Tamed Free Software (And More), published on Wired.com.* GitHub. Recuperado 10 de diciembre de 2022 de [https://github.com/WiredEnterprise/Lord-of-the-Files](https://github.com/WiredEnterprise/Lord-of-the-Files)
+06. Victoria and Albert Museum. (2021, 18 mayo). *Curious Alice: the VR experience - Behind the scenes - V&A.* YouTube. Recuperado 10 de diciembre de 2022 de [https://www.youtube.com/watch?v=j1maAW2F2Ug](https://www.youtube.com/watch?v=j1maAW2F2Ug)
+07. *Curious Alice on Steam.* Recuperado 10 de diciembre de 2022 de [https://store.steampowered.com/app/1424190/Curious_Alice/](https://store.steampowered.com/app/1424190/Curious_Alice/)
 
 ## Imágenes
-01. Catálogo de productos con Realidad Aumentada https://images.prismic.io/invelon-website/f99d7574-aacb-4e11-9c20-61594d0bee18_catalogo-de-productos-realidad-aumentada-invelon-blog.jpg?auto=format%2Ccompress&fit=max&q=50&w=2400&h=1542
-02. Acertijos de la Oruga en *Curious Alice VR* http://p5.itc.cn/q_70/images03/20201016/3f4aecb777c04f91b6f65d032dc53e62.gif
-
+01. Catálogo de productos con Realidad Aumentada [https://images.prismic.io/invelon-website/f99d7574-aacb-4e11-9c20-61594d0bee18_catalogo-de-productos-realidad-aumentada-invelon-blog.jpg?auto=format%2Ccompress&fit=max&q=50&w=2400&h=1542](https://images.prismic.io/invelon-website/f99d7574-aacb-4e11-9c20-61594d0bee18_catalogo-de-productos-realidad-aumentada-invelon-blog.jpg?auto=format%2Ccompress&fit=max&q=50&w=2400&h=1542)
+02. Acertijos de la Oruga en *Curious Alice VR* [http://p5.itc.cn/q_70/images03/20201016/3f4aecb777c04f91b6f65d032dc53e62.gif](http://p5.itc.cn/q_70/images03/20201016/3f4aecb777c04f91b6f65d032dc53e62.gif)
