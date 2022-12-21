@@ -28,11 +28,11 @@ Para la investigación y análisis de los dos casos actuales que no estén ya co
 
 Se ha seleccionado el Victoria and Albert Museum (V&A) localizado en Londres (Inglaterra) por llevar a cabo el lanzamiento en octubre de 2020 la experiencia de realidad virtual *Curious Alice*, por ser un claro ejemplo de hibridación. Pasó a formar parte de su exposición histórica desde entonces, unificando obras de arte originales, collages de paisajes, ilustraciones surrealistas de estilo victoriano con elementos visuales, personajes con los que podemos interactuar y música inspirada en los libros de Alicia, llevándolo a una nueva dimensión lúdica e inmersiva de realidad virtual en primera persona.
 
-Se utiliza como visión central la experiencia *A Curious Game of Croquet*, que los visitantes de la exhibición *Alice: Curiouser and Curiouser* pueden experimentar gracias a la visión a través de unas gafas 3D, permitiendo mirar dentro del mundo imaginario en la obra de realidad virtual a través de los ojos de Alicia, pudiendo derrotar a la reina de corazones jugando en el jardín de croquet interactuando con los flamencos y los erizos tal como cuenta la historia.
+Se utiliza como visión central la experiencia *A Curious Game of Croquet*, que los visitantes de la exhibición *Alice: Curiouser and Curiouser* pueden experimentar gracias a la visión a través de unas gafas 3D, permitiendo mirar dentro del mundo imaginario en la obra de realidad virtual a través de los ojos de Alicia, pudiendo derrotar a la reina de corazones jugando en el jardín de croquet interactuando con los flamencos y los erizos tal como narra la historia.
 
-En el juego al completo, lanzado para diferentes plataformas de realidad virtual y disponiéndolo así para el público más general, dispone de más experiencias muy convincentes, como conocer la casa del conejo, la sensación de caer por su madriguera, cuando se hace pequeña  tras beber el líquido de la botella encerrada en la habitación o grande después de comer uno de los champiñones, y otros diversos y variados puzles, entre otras.
+En el juego al completo, lanzado para diferentes plataformas de realidad virtual y disponiéndolo así para el público más general, dispone de más experiencias muy convincentes, como conocer la casa del conejo, la sensación de caer por su madriguera, cuando se hace pequeña  tras beber el líquido de la botella encerrada en la habitación o grande después de comer uno de los champiñones a lo que se añaden otros diversos y variados puzzles, entre otras.
 
-Los paisajes, objetos, y decorados mapeados en objetos 3D logran crear una atmósfera de autenticidad real. Se representa el mundo imaginario creado por Lewis Carroll de una forma novedosa, combinando y reconfigurando los medios ya conocidos.
+Los paisajes, objetos, y decorados mapeados en elementos 3D logran crear una atmósfera de autenticidad real. Se representa el mundo imaginario creado por Lewis Carroll de una forma novedosa, combinando y reconfigurando los medios ya conocidos.
 
 Todas las reinterpretaciones de la obra mediante objetos 3D, y su movimiento; las ilustraciones en 2D inspiradas en los grabados originales de John Tenniel dispuestas por capas creando profundidad, permiten reinterpretar medios ya existentes.
 
@@ -52,7 +52,7 @@ Se reconstruye y reinterpreta el mundo de Wonderland con otra visión, imbuyendo
 
 [Servicios de realidad aumentada](https://3dpromax.com/servicios/realidad-aumentada/)
 
-La personalización de este catálogo de productos permite que los productos tengan la posibilidad de ser visionados de varias maneras diferentes. Se puede visionar desde una aplicación de móvil como si de un PDF se tratara, desde la misma aplicación en su versión 3D, o también desde la misma aplicación móvil, permite al usuario visualizar los diferentes productos de los que disponga ese catálogo en específico a través de la pantalla del teléfono móvil en realidad aumentada. Posicionando el objeto seleccionado del catálogo sobre un espacio físico a escala real con la finalidad de apreciar si se adapta al espacio reservado para ello en tiempo real. Tiene como finalidad seleccionar el mueble pudiéndolo previsualizar con mayor detalle que viéndolo en 2D sobre un catálogo convencional.
+La personalización de este catálogo de productos permite que los productos tengan la posibilidad de ser visionados de varias maneras diferentes. Se puede visionar desde una aplicación de móvil como si de un PDF se tratara, desde la misma aplicación en su versión 3D, o también desde la misma aplicación móvil, permitiendo al usuario visualizar los diferentes productos de los que disponga ese catálogo en específico a través de la pantalla del teléfono móvil en realidad aumentada. Posicionando el objeto seleccionado del catálogo sobre un espacio físico a escala real con la finalidad de apreciar si se adapta al espacio reservado para ello en tiempo real. Tiene como finalidad seleccionar el mueble pudiéndolo previsualizar con mayor detalle que viéndolo en 2D sobre un catálogo convencional.
 
 Existen numerosas empresas que se dedican a la creación de este tipo de catálogos, renderizaciones de espacios y recorridos virtuales en 3D.
 
@@ -60,7 +60,7 @@ Los mismos elementos se pueden visualizar en varias dimensiones diferentes, tant
 
 Esto integra varias técnicas de medios y el uso del espacio en 3D unificando diferentes medios que interactúan entre sí. Se remezclan varios medios digitales para realizar las imágenes en realidad aumentada. Se unifican en el espacio para darle aspecto en 3D y realismo, ofreciendo nuevas experiencias y la filosofía de interactuar tecnológicamente cada vez más envolvente e intuitiva.
 
-Estos elementos al representarse con la cámara del teléfono móvil, nos permiten interactuar con ellos, modificando sus dimensiones, su perspectiva o posición en el espacio, su color y textura produciendo dinamismo y modificando así la experiencia del usuario unificando realidades que antes existían por separado y logrando grandes resultados para los clientes.
+Estos elementos al representarse con la cámara del teléfono móvil, nos permiten interactuar con ellos, modificando sus dimensiones, su perspectiva o posición en el espacio, su color y textura produciendo dinamismo. Modificando así la experiencia del usuario unificando realidades que antes existían por separado y logrando grandes resultados para los clientes.
 
 > “Cada uno de estos elementos visuales es el resultado del uso de determinadas técnicas de medios para dibujar, fotografiar y realizar gráficos por ordenador.” (3)
 
@@ -68,7 +68,7 @@ Los elementos se sintetizan para extraer los detalles de cada uno, con los que s
 
 Los catálogos son personalizables, se pueden acomodar al cliente, dependiendo del comercial que vaya a presentarlos.
 
-Se reconfiguran y combinan medios ya conocidos, como modelos, colores, textos, imágenes fijas, videos, y la representación del espacio físico a través de la cámara del dispositivo móvil.
+Se reconfiguran y combinan medios ya conocidos, como modelos, colores, textos, imágenes fijas, videos y la representación del espacio físico a través de la cámara del dispositivo móvil.
 
 Se modifica la interacción y la manipulación de formatos de medios que ya existían, seleccionando objetos que físicamente no existen visualizándolos en tiempo real a través de la cámara del móvil.
 
@@ -78,7 +78,7 @@ Se utilizan interfaces para su visualización en 3d, modificando su dimensión o
 > Catálogo de productos con Realidad Aumentada 2020 via Youtube
 
 ## Conclusión
-Para realizar este ensayo, nos colocamos “las gafas de Manovich” para analizar cada uno de los ejemplos como un resultado de la hibridación. De cómo se crean nuevas especies de un nuevo tipo de estética visual que no existía previamente. No representan solo la suma de partes ya existentes con anterioridad.
+Para realizar este ensayo, nos colocamos “las gafas de Manovich” para analizar cada uno de los ejemplos como un resultado de la hibridación. De cómo se crean nuevas especies de un nuevo tipo de estética visual que no existía previamente. No representan solo la suma de partes ya existentes con anterioridad. Se fusionan los elementos compartiendo técnicas de software e interfaces generando una nueva experiencia satisfactoria.
 
 ## Referencias y Bibliografía
 01. Adell, F. *Fundamentos y evolución de la multimedia » Remediación, multimedia e hibridación de los medios.* Recuperado 10 de diciembre de 2022, de http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
@@ -88,3 +88,8 @@ Para realizar este ensayo, nos colocamos “las gafas de Manovich” para analiz
 05. WiredEnterprise. (2012, 11 julio). *GitHub - WiredEnterprise/Lord-of-the-Files: A repository for the article Lord of the Files: How GitHub Tamed Free Software (And More), published on Wired.com.* GitHub. Recuperado 10 de diciembre de 2022 de https://github.com/WiredEnterprise/Lord-of-the-Files
 06. Victoria and Albert Museum. (2021, 18 mayo). *Curious Alice: the VR experience - Behind the scenes - V&A.* YouTube. Recuperado 10 de diciembre de 2022 de https://www.youtube.com/watch?v=j1maAW2F2Ug
 07. *Curious Alice on Steam.* Recuperado 10 de diciembre de 2022 de https://store.steampowered.com/app/1424190/Curious_Alice/
+
+## Imágenes
+01. Catálogo de productos con Realidad Aumentada https://images.prismic.io/invelon-website/f99d7574-aacb-4e11-9c20-61594d0bee18_catalogo-de-productos-realidad-aumentada-invelon-blog.jpg?auto=format%2Ccompress&fit=max&q=50&w=2400&h=1542
+02. Acertijos de la Oruga en *Curious Alice VR* http://p5.itc.cn/q_70/images03/20201016/3f4aecb777c04f91b6f65d032dc53e62.gif
+
